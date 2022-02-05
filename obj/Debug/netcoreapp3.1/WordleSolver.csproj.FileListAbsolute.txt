@@ -12,3 +12,17 @@ C:\Users\joe\OneDrive\Documents\Development\WordleSolver\obj\Debug\netcoreapp3.1
 C:\Users\joe\OneDrive\Documents\Development\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.dll
 C:\Users\joe\OneDrive\Documents\Development\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.pdb
 C:\Users\joe\OneDrive\Documents\Development\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.genruntimeconfig.cache
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\bin\Debug\netcoreapp3.1\WordleSolver.exe
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\bin\Debug\netcoreapp3.1\WordleSolver.deps.json
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\bin\Debug\netcoreapp3.1\WordleSolver.runtimeconfig.json
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\bin\Debug\netcoreapp3.1\WordleSolver.runtimeconfig.dev.json
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\bin\Debug\netcoreapp3.1\WordleSolver.dll
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\bin\Debug\netcoreapp3.1\WordleSolver.pdb
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.csproj.AssemblyReference.cache
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.AssemblyInfoInputs.cache
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.AssemblyInfo.cs
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.csproj.CoreCompileInputs.cache
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.dll
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.pdb
+C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\obj\Debug\netcoreapp3.1\WordleSolver.genruntimeconfig.cache

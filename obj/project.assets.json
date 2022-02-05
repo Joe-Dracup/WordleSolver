@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joe\\OneDrive\\Documents\\Development\\WordleSolver\\WordleSolver.csproj",
+      "projectUniqueName": "C:\\Users\\joe\\OneDrive\\Documents\\Development\\WordleSolver\\WordleSolver\\WordleSolver.csproj",
       "projectName": "WordleSolver",
-      "projectPath": "C:\\Users\\joe\\OneDrive\\Documents\\Development\\WordleSolver\\WordleSolver.csproj",
+      "projectPath": "C:\\Users\\joe\\OneDrive\\Documents\\Development\\WordleSolver\\WordleSolver\\WordleSolver.csproj",
       "packagesPath": "C:\\Users\\joe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joe\\OneDrive\\Documents\\Development\\WordleSolver\\obj\\",
+      "outputPath": "C:\\Users\\joe\\OneDrive\\Documents\\Development\\WordleSolver\\WordleSolver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

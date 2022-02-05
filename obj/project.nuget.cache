@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aNVJBCU4vloe4NP8GDkk1KWL+zfx+77W4SrbVAduVivRJcfPc5FFpCRyLwQvKU2tlU1qmddRnyYBpYmgjQYe5g==",
+  "dgSpecHash": "1EQSEgO1oSFXxSaLdB17Nwir8PfXgeXkw+uyoLdqimr1rGU+r6ofLrpWe/hkfxlHaD1aUvI8M403O7AZBhEodA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joe\\OneDrive\\Documents\\Development\\WordleSolver\\WordleSolver.csproj",
+  "projectFilePath": "C:\\Users\\joe\\OneDrive\\Documents\\Development\\WordleSolver\\WordleSolver\\WordleSolver.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

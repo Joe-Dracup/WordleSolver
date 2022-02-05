@@ -10,7 +10,7 @@ namespace WordleSolver
     {
         static void Main(string[] args)
         {
-            var logFile = File.ReadAllLines(@"C:\Users\joe\OneDrive\Documents\Development\WordleSolver\Words.txt");
+            var logFile = File.ReadAllLines(@"C:\Users\joe\OneDrive\Documents\Development\WordleSolver\WordleSolver\Words.txt");
             var wordList = new List<string>(logFile);
             var guesses = new List<Letter>();
 
