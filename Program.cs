@@ -44,7 +44,7 @@ namespace WordleSolver
 
 
             Console.WriteLine($"Write letters not possible: (Current word count: {wordList.Count()})");
-            var notPossibleLetters = Console.ReadLine();
+            var notPossibleLetters = Console.ReadLine().ToLower();
 
             foreach (var letter in notPossibleLetters)
             {
